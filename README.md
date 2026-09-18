@@ -6,7 +6,7 @@ The data backing the GIP Exercise map is called, cleaned, and uploaded by this s
 You can run the script directly in r, but I only recommend it if this below method does not work. This could be due to the files having been moved/renamed or an R update that breaks it.
 
 At this file path (sample/file/path/here) you should find a .bat file. 
-Opening it should start running the script on the terminal. /n
+Opening it should start running the script on the terminal. \n
 The script will be accessing the USGS Water Data API, downloading and formatting the relevant data. 
 
 Your browser will soon open with a prompt to login to ArcGIS. Once you put in your credentials, it will show a long key. 
