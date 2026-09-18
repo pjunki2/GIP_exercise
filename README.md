@@ -1,4 +1,4 @@
-# GIP_exercise
+# GIP Exercise
 
 The data backing the GIP Exercise map is called, cleaned, and uploaded by this script. Any changes to the map's visual design and the functionality of the app should be fixed on ArcOnline, not here. If you want/need to make edits to the script, make sure to do that in a separate environment with a copy before making any changes to the one here.
 
